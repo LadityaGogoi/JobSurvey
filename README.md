@@ -1,6 +1,10 @@
 
 # Data Professional Survey Breakdown Dashboard
-
+<h1 align="center">
+  <a>
+    <img src="./report/report.png" alt="Logo">
+  </a>
+</h1>
 ## Description
 This project visualizes insights from a survey of data professionals, such as data scientists, analysts, and engineers. It provides a breakdown of demographics, average salaries, job satisfaction, and challenges professionals face in the field. The dashboard aims to offer a quick and comprehensive overview of the state of the data industry, including:
 
